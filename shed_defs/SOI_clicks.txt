@@ -1,0 +1,18 @@
+Longitude, Latitude co-ordinates of the end points of the Indian sector of the line defining the Southern Ocean catchment. 
+Used to release back trajectories. 
+ 
+13  points defined in this file. 
+ 
+ 20.22000 -35.00000
+116.77000 -35.00000
+121.00502 -31.50333
+118.46466 -29.18712
+119.28654 -25.89960
+123.24651 -27.99166
+125.18914 -24.70413
+131.31588 -26.12375
+131.54003 -23.88225
+134.15510 -23.50867
+137.29319 -18.87625
+141.40260 -22.16378
+144.97000 -20.48000

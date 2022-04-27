@@ -1,0 +1,21 @@
+Longitude, Latitude co-ordinates of clicked points discretely defining the La Plata basin continental divide. 
+Used to release back trajectories. 
+ 
+16  points defined in this file. 
+ 
+-70.37000 -35.00000
+-68.11934 -22.94466
+-15.32000 -15.32000
+-70.26243 -14.05479
+-64.54751 -20.64282
+-60.65820 -18.81722
+-58.75322 -14.61041
+-54.62579 -14.92790
+-53.35580 -17.78536
+-47.64089 -15.64227
+-46.21216 -20.56344
+-43.43408 -21.11906
+-49.78398 -25.08775
+-50.18085 -28.73895
+-53.27643 -28.10396
+-71.03000 -15.32000

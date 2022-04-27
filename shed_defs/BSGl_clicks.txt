@@ -1,0 +1,25 @@
+Longitude, Latitude co-ordinates of clicked points discretely defining the Bering Strait to Greenland part of the Arctic Ocean drainage divide. 
+Used to release back trajectories. 
+ 
+20  points defined in this file. 
+ 
+-169.03000  65.77000
+-159.23844  65.47066
+-149.85689  67.99902
+-136.81588  68.39823
+-135.88438  66.13602
+-140.47535  65.13798
+-130.82766  64.27301
+-129.16427  62.07733
+-132.15838  60.94623
+-117.45000  52.03000
+-102.81610  58.88362
+-107.80628  63.27498
+-86.11562  67.06752
+-83.52072  68.99705
+-85.18412  70.52738
+-75.27029  72.39038
+-80.39354  74.71913
+-78.59708  77.51363
+-74.93761  78.64474
+-72.62000  78.08000

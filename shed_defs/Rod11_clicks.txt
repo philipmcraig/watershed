@@ -1,0 +1,19 @@
+Longitude, Latitude co-ordinates of clicked points discretely defining the Rodriguez et al. (2011) Indian Ocean/Australia continental divide. 
+Used to release back trajectories. 
+ 
+14  points defined in this file. 
+ 
+106.15417  -6.06455
+106.15417 -24.92730
+114.80300 -24.92730
+115.79200 -25.67900
+119.28654 -25.89960
+120.76941 -23.43335
+125.09675 -21.80357
+128.01911 -22.36557
+130.04229 -18.93741
+132.73985 -22.47797
+132.34645 -16.23985
+137.29319 -18.87625
+141.40260 -22.16378
+144.97000 -20.48000

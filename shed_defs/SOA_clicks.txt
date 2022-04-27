@@ -1,0 +1,20 @@
+Longitude, Latitude co-ordinates of the end points of the Atlantic sector of the line defining the Southern Ocean catchment. 
+Used to release back trajectories. 
+ 
+15  points defined in this file. 
+
+-71.03000 -15.32000 
+-70.26243 -13.81667
+-64.62689 -20.72219
+-60.57882 -18.73785
+-58.75322 -14.53103
+-54.62579 -14.76915
+-53.27643 -17.70599
+-47.64089 -15.48352
+-46.05341 -20.56344
+-43.43408 -21.03969
+-49.78398 -24.77026
+-49.94273 -28.58020
+-53.43518 -28.18333
+-55.00000 -35.00000
+ 20.22000 -35.00000

@@ -1,0 +1,5 @@
+Longitude, Latitude co-ordinates defining the African and European continental divide. 
+Used to release back trajectories. 
+ 
+247  points defined in this file. 
+ 

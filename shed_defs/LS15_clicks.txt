@@ -1,0 +1,15 @@
+Longitude, Latitude co-ordinates of clicked points discretely defining the Levang & Schmitt (2015) Maritime Continent continental divide. 
+Used to release back trajectories. 
+ 
+10  points defined in this file. 
+ 
+101.99829   2.85244
+101.18050   1.67847
+101.18050  -2.06230
+119.45113  -2.06230
+120.14110  -3.55315
+134.24249  -3.55315
+137.61232  -4.27607
+139.05215  -3.79613
+142.21216  -5.51021
+142.21216  -8.64684

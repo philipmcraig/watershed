@@ -1,0 +1,12 @@
+Longitude, Latitude co-ordinates of clicked points discretely defining the Greenland to Scandanavia part of the Arctic Ocean drainage divide. 
+Used to release back trajectories. 
+ 
+7  points defined in this file. 
+ 
+-72.62000  78.08000
+-46.74378  77.10422
+-44.38285  76.19617
+-43.47480  78.67817
+-27.09000  80.50000
+ 21.27000  80.50000
+ 21.27000  69.32000
