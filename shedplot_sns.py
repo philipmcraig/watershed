@@ -82,7 +82,7 @@ def ShedPlot(axx,f1,f2,f3,f4,f5,f6,f7,f8,f9,i,PmE,S):
     m.plot(EAA[51,0],EAA[51,1],'gx',markersize=13,mew=3,latlon=True) # eaa split
     m.plot(Ar[121,0],Ar[121,1],'rx',markersize=13,mew=3,latlon=True) # ara aplit
     m.plot(Ar[291,0],Ar[291,1],'rx',markersize=13,mew=3,latlon=True) # ari split 1
-    m.plot(Ar[325,0],Ar[325,1],'rx',markersize=13,mew=3,latlon=True) # arp split 2
+    m.plot(Ar[325,0],Ar[325,1],'rx',markersize=13,mew=3,latlon=True) # ari split 2
     m.plot(Ar[431,0],Ar[431,1],'rx',markersize=13,mew=3,latlon=True) # arp split 1
     m.plot(Ar[517,0],Ar[517,1],'rx',markersize=13,mew=3,latlon=True) # arp split 2
     m.plot(SO[489,0],SO[489,1],'x',mec='darkgoldenrod',markersize=13,mew=3,latlon=True) # soa split

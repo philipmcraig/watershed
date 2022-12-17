@@ -79,7 +79,7 @@ m.plot(AfMe[182,0],AfMe[182,1],'kx',markersize=15,mew=5,latlon=True) # afr split
 m.plot(EAA[51,0],EAA[51,1],'gx',markersize=15,mew=5,latlon=True) # eaa split
 m.plot(Ar[121,0],Ar[121,1],'rx',markersize=15,mew=5,latlon=True) # ara aplit
 m.plot(Ar[291,0],Ar[291,1],'rx',markersize=15,mew=5,latlon=True) # ari split 1
-m.plot(Ar[325,0],Ar[325,1],'rx',markersize=15,mew=5,latlon=True) # arp split 2
+m.plot(Ar[325,0],Ar[325,1],'rx',markersize=15,mew=5,latlon=True) # ari split 2
 m.plot(Ar[431,0],Ar[431,1],'rx',markersize=15,mew=5,latlon=True) # arp split 1
 m.plot(Ar[517,0],Ar[517,1],'rx',markersize=15,mew=5,latlon=True) # arp split 2
 m.plot(SO[489,0],SO[489,1],'x',mec='darkgoldenrod',markersize=15,mew=5,latlon=True) # soa split
